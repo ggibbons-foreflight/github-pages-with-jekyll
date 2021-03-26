@@ -1,5 +1,7 @@
-title: "First post"
+---
+title: "Getting Started"
 date: 2021-03-26
+---
 
 ## Adding a new file
 
