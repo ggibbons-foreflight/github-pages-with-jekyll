@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This blog documents my process of learning how to use Githubs pages while utilziing the online learning lab. 
